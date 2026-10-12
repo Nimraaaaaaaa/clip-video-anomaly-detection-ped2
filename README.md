@@ -5,7 +5,7 @@ small vision-language models (SmolVLM, 256M / 500M / 2.2B) can **explain** what 
 frames. The study includes a normal-frame control experiment to check that the explanations reflect the image
 and not just the prompt.
 
-> Author: [Your Name] · Notebook: `Anomaly_detection.ipynb` · Runs on a free Colab T4 GPU
+> Author: [Nimra Abdulhaq] · Notebook: `Anomaly_detection.ipynb` · Runs on a free Colab T4 GPU
 
 ## Key results
 
